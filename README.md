@@ -1,7 +1,7 @@
 # Student Task Manager
 
 task management application designed for students to organize their academic tasks, assignments, and study schedules.
-Live Demo [TASK-MANAGER](https://github.com/VishalRaut2106/To-Do-List.git)
+Live Demo [TASK-MANAGER](https://vishalraut2106.github.io/task-manager/)
 
 
 ## Features
