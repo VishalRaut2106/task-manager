@@ -1,6 +1,6 @@
 # Student Task Manager
-A simple and elegant task management application
- designed for students to organize their academic tasks
+
+task management application designed for students to organize their academic tasks, assignments, and study schedules.
 
 
 ## Features
@@ -17,37 +17,24 @@ A simple and elegant task management application
   - Add due dates to tasks
   - Filter tasks by category
 
-- 🎨 **Modern UI/UX**
-  - Clean and intuitive interface
-  - Responsive design
-  - Beautiful gradient animations
-  - Custom scrollbar
-  - Smooth hover effects
 
 - 💾 **Data Persistence**
   - Tasks are automatically saved to localStorage
   - Data persists between page refreshes
   - No backend required
 
-## Technologies Used
-
-- HTML5
-- CSS3 (with Flexbox)
-- JavaScript (Vanilla)
-- Font Awesome Icons
-- Google Fonts (Poppins)
-
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-task-manager.git
+   https://github.com/VishalRaut2106/To-Do-List.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd student-task-manager
+   cd To-Do-List
    ```
+
 
 ## Usage
 
