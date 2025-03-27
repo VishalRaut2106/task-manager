@@ -53,13 +53,14 @@ Live Demo [TASK-MANAGER](https://vishalraut2106.github.io/task-manager/)
    - Use filter buttons to view tasks by category
 
 3. **Task Categories**
-   - Assignments
+   - All
+   - Assignment
    - Exams
    - Projects
    - Study
    - Other
 
-4. **Priority Levels**
+5. **Priority Levels**
    - High (Red)
    - Medium (Orange)
    - Low (Green)
